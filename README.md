@@ -1,8 +1,8 @@
 # Spotify
-Esse projeto foi feito na irmersão Front-end da Alura (maior escola de tecnologia do Brasil). Que teve a duração do dia 22/01 até dia  26/01.
+Esse projeto foi feito na imersão Front-end da Alura (maior escola de tecnologia do Brasil). Que teve a duração do dia 22/01 até dia  26/01.
 
 Na imersão fizemos um projeto inspirado no Spotify com a ajuda dos professores, Guilherme Lima - Backend Developer, Fernanda Degolin - Desenvolvedora Front-end na Globo e
-Mayara Cardoso - Desenvolvedora Front-end no Itaú.  E usmaos os conhecimentos em HTML, CSS, Java Script e React.
+Mayara Cardoso - Desenvolvedora Front-end no Itaú.  E usamos os conhecimentos em HTML, CSS, Java Script e React.
 
 No meu projeto implementei algumas animações que não foram abordadas na irmersão, mais para deixar o site com a minha cara e com as meus critérios.
 
@@ -43,7 +43,7 @@ Animações nos botões (de setas '<'  '>') do cabeçalho.
 
 
 > links:
-- linkedin:
+- linkedin: https://www.linkedin.com/posts/rafael-nascimento-599817231_imersaetofrontend-alura-activity-7158203254630232064--ugd?utm_source=share&utm_medium=member_desktop
 - Behance: https://www.behance.net/gallery/190334269/Spotify-Alura
 
 
