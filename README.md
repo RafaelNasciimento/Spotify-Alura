@@ -44,7 +44,7 @@ Animações nos botões (de setas '<'  '>') do cabeçalho.
 
 > links:
 - linkedin:
-- Behance:
+- Behance: https://www.behance.net/gallery/190334269/Spotify-Alura
 
 
 #ImersãoFrontEnd #Alura
