@@ -38,9 +38,8 @@ Animações nos botões (de setas '<'  '>') do cabeçalho.
 
 > Neste Arquivo deixei para você 3 pastas:
 
-- Imgs-Vídeo: Aqui está um vídeo e imagens do site para você.
+- Imgs: Aqui está um vídeo e imagens do site para você.
 - Spotify-Alura: Aqui está o código do site caso você queira dar uma olhada mais a fundo.
-- Spotify-React: Aqui está o código do site em react caso você queira dar uma olhada mais a fundo.
 
 
 > links:
