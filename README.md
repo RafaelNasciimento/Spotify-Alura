@@ -36,7 +36,7 @@ Animações nos botões (de setas '<'  '>') do cabeçalho.
 
 
 
-> Neste Arquivo deixei para você 3 pastas:
+> Neste Arquivo deixei para você 2 pastas:
 
 - Imgs: Aqui está um vídeo e imagens do site para você.
 - Spotify-Alura: Aqui está o código do site caso você queira dar uma olhada mais a fundo.
